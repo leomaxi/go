@@ -1,7 +1,7 @@
 # ![Logo](https://img.icons8.com/ios-filled/50/000000/hacker.png) Leonard M. I. Mensah
 
 **Cybersecurity Analyst | Systems Administrator | IT Strategist**
-St. John's, NL, A1B 2J3 | +1 709 213-3807 | leomaximensah@gmail.com | [LinkedIn](https://linkedin.com/leonardmensah)
+St. John's, NL, A1B 2J3 | leomaximensah@gmail.com | [LinkedIn](https://linkedin.com/leonardmensah)
 
 ## 👨‍💻 Professional Summary
 Versatile and detail-oriented cybersecurity professional with 10+ years of success in IT operations, security, training, and digital innovation. Demonstrated record in safeguarding systems, managing IT infrastructure, and training thousands in secure tech.
